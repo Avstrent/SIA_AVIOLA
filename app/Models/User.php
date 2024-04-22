@@ -7,4 +7,5 @@
  protected $fillable = [
  'username', 'password'
  ];
+ public $timestamps = false;
  }
